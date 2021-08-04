@@ -1,6 +1,5 @@
-# wangonglunming
 
-万公论命诗诀解
+# 万公论命诗诀解
 
 静态网页版，方便手机查看
 
@@ -11,3 +10,9 @@
 劳烦通过 issue 告知下
 
 也欢迎邮箱告知： 1718090900@qq.com
+
+# 感谢
+
+[https://zh.wikipedia.org/wiki/%E8%90%AC%E6%B0%91%E8%8B%B1] 万民英先生
+
+[https://github.com/logoove/weui](WeUI+)
