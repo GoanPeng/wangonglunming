@@ -13,6 +13,6 @@
 
 # 感谢
 
-[https://zh.wikipedia.org/wiki/%E8%90%AC%E6%B0%91%E8%8B%B1] 万民英先生
+[https://zh.wikipedia.org/wiki/%E8%90%AC%E6%B0%91%E8%8B%B1](万民英先生)
 
 [https://github.com/logoove/weui](WeUI+)
